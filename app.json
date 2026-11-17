@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Motion Lab",
+    "slug": "motion-lab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.motionlab.app"
+    },
+    "plugins": [
+      "expo-sensors",
+      "expo-font",
+      "expo-status-bar"
+    ]
+  }
+}
